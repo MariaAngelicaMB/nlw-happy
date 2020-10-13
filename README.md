@@ -12,7 +12,7 @@
 ## Progresso 🚧
 
 ✅ "Acelerando sua evolução" <br>
-✅ "Olhando as oportunidades" <br>
+🔄 "Olhando as oportunidades" <br>
 🔄 "A escolha da Stack" <br>
 🔄 "Até dois anos em 2 meses" <br>
 🔄 "A milha extra" <br>
