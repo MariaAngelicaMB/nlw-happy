@@ -17,8 +17,6 @@
 🔄 "Até dois anos em 2 meses" <br>
 🔄 "A milha extra" <br>
 
----
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
