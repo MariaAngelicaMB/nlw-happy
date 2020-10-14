@@ -1,8 +1,21 @@
-# Happy
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/8556260/95918836-e42d0f80-0d82-11eb-8b51-23c1515de7be.jpg">
+</p>
+<h3 align="center">
+ 	Next Level Week #3 | Projeto Happy 🚀
+</h3>
+<h4 align="center">
+	O projeto é baseado no dia em que começou a NLW #3, 12/10 - dia das crianças. O Happy tem inspiração a partir das vivências de quem visita orfanatos e como as crianças ficam felizes ao receber visitas, o objetivo então é criar um projeto que possibilite divulgar os orfanatos que existem nas cidades.
 
-<h4 align="center"> 
-	🚧  Em construção...  🚧
-</h4>
+---
+
+## Progresso 🚧
+
+✅ "Acelerando sua evolução" <br>
+🔄 "Olhando as oportunidades" <br>
+🔄 "A escolha da Stack" <br>
+🔄 "Até dois anos em 2 meses" <br>
+🔄 "A milha extra" <br>
 
 ## 🚀 Tecnologias
 
@@ -13,9 +26,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## 💻 Projeto
-
-O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜 
+## 💻 Mais sobre o Projeto
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
 
